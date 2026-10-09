@@ -26,7 +26,7 @@ const Navbar = () => {
         <div className="container-custom flex justify-between items-center text-sm">
           <span className="font-medium">Taking Your Outdoor Space to the NX Level</span>
           <div className="flex items-center gap-6">
-            <a href="tel:+17025551234" className="flex items-center gap-2 hover:text-accent transition-colors">
+            <a href="tel:+17023486380" className="flex items-center gap-2 hover:text-accent transition-colors">
               <Phone size={14} />
              +1 (702)-348-6380
             </a>

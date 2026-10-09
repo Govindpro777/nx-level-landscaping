@@ -27,7 +27,7 @@ const CTASection = () => {
             <ArrowRight size={20} />
           </a>
           <a
-            href="tel:+17025551234"
+            href="tel:+17023486380"
             className="btn-outline-hero inline-flex items-center justify-center gap-2"
           >
             <Phone size={20} />
